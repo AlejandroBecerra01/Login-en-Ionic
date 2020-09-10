@@ -26,4 +26,8 @@ export class LoginPage implements OnInit {
     })
   }
 
+  loginGoogle(){
+    alert('eyy');
+  }
+
 }
